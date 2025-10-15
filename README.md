@@ -26,8 +26,11 @@ Efrei Backend
 
 
 ## Lancement
-- / (Racine)
-- python main.py
+- / (Aller à la Racine) 
+```bash
+    python main.py
+```
+
 
 ## Overview
 Ce projet a été réalisé dans un cadre scolaire pour la création d'une API.
