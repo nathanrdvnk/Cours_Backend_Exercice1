@@ -8,11 +8,22 @@ Efrei Backend
 - [Python 3.13](https://apps.microsoft.com/detail/9pnrbtzxmb4z?hl=en-FR&gl=FR)
 
 ### Création du venv
-- cd Cours
-- python -m venv venv
-- cd venv
-- source Scripts/activate
-- pip install -r requirements.txt
+```bash
+    cd Cours
+```
+```bash
+    python -m venv venv
+```
+```bash
+    cd venv
+```
+```bash
+    source Scripts/activate
+```
+```bash
+    pip install -r requirements.txt
+```
+
 
 ## Lancement
 - / (Racine)
